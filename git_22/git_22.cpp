@@ -11,6 +11,7 @@ using namespace std;
 
 int main() {
 	int i ;
+	int k ;
 	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
 	return 0;
 }
